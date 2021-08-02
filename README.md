@@ -1,0 +1,2 @@
+# IPL-Data-Analysis-using-Python-Project_1
+Data analysis using python project_1. In this project we will analyze the data based on the given data set which is downloaded from kaggle. We will used the Seaborn and matplotlib for visualization and analyze the data like which teams has won the maximum no of game and which teams has won most number of toss and elected bat and fields first. and analyze the most famous venue and top umpires and visualize the data using bar plot
